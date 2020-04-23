@@ -1,0 +1,9 @@
+aiohttp
+beautifulsoup4
+html5lib
+splinter
+pyunpack
+patool
+asyncio
+aiofiles
+selenium
