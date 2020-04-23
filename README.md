@@ -16,7 +16,7 @@ Requirements: Python 3.7
 ### Примеры запросов:
 - Запрос всех архивных файлов:
 ```
-select * from urls where status is not null;
+select * from links where status is not null;
 ```
 
 Для коллекционирования ссылок на дистрибутивы использовалась утилита sqllt.py, для распаковки архивов - z.py
